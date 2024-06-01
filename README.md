@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# UpTrend_Ecommerce
+ Welcome to Uptrend, your ultimate destination for chic and stylish dresses! Discover a curated collection of contemporary designs, perfect for every occasion. Elevate your wardrobe with Uptrend's fashion-forward elegance.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- User-Friendly Interface: A clean and intuitive design to enhance user experience.
+- Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
+- Product Catalog: Browse and search through a diverse range of dresses.
+- Product Details: Detailed descriptions, high-quality images, and customer reviews.
+- Shopping Cart: Easily add, remove, and update items in your cart.
+- Secure Checkout: Safe and secure payment processing.
+- User Accounts: Create and manage user profiles, order history, and wishlists.
+- Admin Panel: Manage products, orders, and users with ease
 
-## Available Scripts
+## Live Demo
+Check out the live demo #  http://localhost:3000!
 
-In the project directory, you can run:
+## Screenshots
+![Front Pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/3063208b-7e08-4bb2-be3e-8d00034139ad)
+![Login pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/64d70b3a-e852-4408-b205-f24b1d2de52c)
+![Kids pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/7dd8b2e1-d218-4f8d-922f-89140c97a113)
+![Women pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/974ea71a-0791-43a4-b7d2-6af82f42d8b2)
+![Men pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/e729527b-4ce8-427e-a56e-c7b5e415c67e)
+![Cart 1 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/b805b1e1-a6db-4198-a0a9-6bc3bf556a57)
+![cart 2 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/5d528536-3c3a-481a-a409-e7985b1d3a9e)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
