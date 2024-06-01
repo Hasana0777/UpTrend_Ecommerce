@@ -15,13 +15,14 @@
 Check out the live demo #  http://localhost:3000!
 
 ## Screenshots
-![Front Pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/3063208b-7e08-4bb2-be3e-8d00034139ad)
-![Login pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/64d70b3a-e852-4408-b205-f24b1d2de52c)
-![Kids pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/7dd8b2e1-d218-4f8d-922f-89140c97a113)
-![Women pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/974ea71a-0791-43a4-b7d2-6af82f42d8b2)
-![Men pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/e729527b-4ce8-427e-a56e-c7b5e415c67e)
-![Cart 1 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/b805b1e1-a6db-4198-a0a9-6bc3bf556a57)
-![cart 2 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/5d528536-3c3a-481a-a409-e7985b1d3a9e)
+![Front Pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/7eb6116d-5392-4859-b564-747b0a302303)
+![Login pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/5b813897-3975-47f7-8d22-4ec11e53f0ec)
+![Kids pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/5dd35d42-2bb0-4437-9cf6-b86d31530188)
+![Women pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/4610d368-962f-4747-acda-376c4eccdcfb)
+![Men pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/59627316-bf9b-4b14-81e9-2d44665a9e03)
+![cart 2 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/2d805cc7-2f98-47c0-a594-451956f43cab)
+![Cart 1 pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/440f48f6-a09d-4697-a23e-517289800fa7)
+
 
 ## Technologies Used
 - HTML
