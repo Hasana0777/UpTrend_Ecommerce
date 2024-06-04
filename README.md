@@ -7,7 +7,7 @@
 - Product Details: Detailed descriptions, high-quality images, and customer reviews.
 - Shopping Cart: Easily add, remove, and update items in your cart.
 - Admin Panel: Manage products, orders, and users with ease.
-- 
+
 ## Technologies Used
 - HTML
 - CSS
