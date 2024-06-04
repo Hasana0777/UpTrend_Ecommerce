@@ -4,11 +4,8 @@
 ## Features
 - User-Friendly Interface: A clean and intuitive design to enhance user experience.
 - Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
-- Product Catalog: Browse and search through a diverse range of dresses.
 - Product Details: Detailed descriptions, high-quality images, and customer reviews.
 - Shopping Cart: Easily add, remove, and update items in your cart.
-- Secure Checkout: Safe and secure payment processing.
-- User Accounts: Create and manage user profiles, order history, and wishlists.
 - Admin Panel: Manage products, orders, and users with ease
 
 
