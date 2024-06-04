@@ -11,8 +11,7 @@
 - User Accounts: Create and manage user profiles, order history, and wishlists.
 - Admin Panel: Manage products, orders, and users with ease
 
-## Live Demo
-Check out the live demo # https://ecommerce320.netlify.app
+
 
 ## Screenshots
 ![Front Pic](https://github.com/Hasana0777/UpTrend_Ecommerce/assets/137383538/7eb6116d-5392-4859-b564-747b0a302303)
